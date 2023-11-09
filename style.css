@@ -65,7 +65,7 @@ a {
 
 .logo img {
     padding-top: 10px;
-    width: 40vw;
+    width: 50vw;
 }
 
 /*dropdownmenu*/
@@ -217,7 +217,7 @@ details[open] summary {
 
 .sectie-bron-wit {
     width: 100vw;
-    height: 130vw;
+    height: 40%;
     padding: 1em;
     background-color: white;
 }
